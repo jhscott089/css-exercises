@@ -1,10 +1,20 @@
 /* styles.css */
-.number-1{
+.number-1,
+.number-3{
     background-color:#e9a2ae;
     font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+.number-3 {
+    font-size: 24px;
 }
 
 #number-2 {
     color:#0000ff;
     font-size: 36px;
+}
+
+#number-4 {
+    background-color:#90ee90;
+    font-size: 24px;
+    font-weight:bold;
 }
